@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deepak Gangwar</h1>
 <h3 align="center">A passionate Competitive Programmer and MERN developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://deepak-gangwar.netlify.app/](https://deepak-gangwar.netlify.app/)
+- 👨‍💻 Portfolio [https://deepak-gangwar.netlify.app/](https://deepak-gangwar.netlify.app/)
 
 - 📫 How to reach me **deepakgangwar2003@gmail.com**
 
